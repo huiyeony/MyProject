@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+./Desktop/MyProject/PacketGenerator/bin/Debug/net6.0/PacketGenerator ./Desktop/MyProject/PacketGenerator/PDL.xml
+
+Cp -f ./Desktop/MyProject/PacketGenerator/bin/Debug/net6.0/GenPackets.cs ./Desktop/MyProject/Client/Assets/Scripts/Packet
+Cp -f ./Desktop/MyProject/PacketGenerator/bin/Debug/net6.0/GenPackets.cs ./Desktop/MyProject/Server/Packet
+
+Cp -f ./Desktop/MyProject/PacketGenerator/bin/Debug/net6.0/ClientPacketManager.cs ./Desktop/MyProject/Client/Assets/Scripts/Packet
+Cp -f ./Desktop/MyProject/PacketGenerator/bin/Debug/net6.0/ServerPacketManager.cs ./Desktop/MyProject/Server/Packet

@@ -1,0 +1,48 @@
+{
+    "monsters": [
+        {
+            "templateId": "1",
+            "name": "Monster_1",
+            "stat": {
+                "level": "1",
+                "maxHp": "50",
+                "attack": "10",
+                "speed": "5",
+                "exp": "15"
+            },
+            "rewardDatas": [
+                {
+                    "templateId": "1",
+                    "count": "1",
+                    "probability": "10"
+                },
+                {
+
+                    "templateId": "10",
+                    "count": "1",
+                    "probability": "10"
+                },
+                {
+
+                    "templateId": "11",
+                    "count": "1",
+                    "probability": "10"
+                },
+                {
+
+                    "templateId": "12",
+                    "count": "1",
+                    "probability": "10"
+                },
+                {
+
+                    "templateId": "100",
+                    "count": "1",
+                    "probability": "10"
+                }
+            ]
+
+        }
+
+    ]
+} 

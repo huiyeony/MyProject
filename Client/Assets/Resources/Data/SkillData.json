@@ -1,0 +1,30 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "cooldown": "2.0",
+            "damage": "0",
+            "skillType": "1",
+            "range": "1",
+            "projectileInfo": {
+                "speed": "25.0",
+                "dataPath": "Creature/Arrow"
+            }
+
+
+        },
+        {
+            "id": "2",
+            "cooldown": "2.0",
+            "damage": "10",
+            "skillType": "2",
+            "range": "10",
+            "projectileInfo": {
+                "speed": "25.0",
+                "dataPath": "Creature/Arrow"
+            }
+
+        }
+
+    ]
+} 

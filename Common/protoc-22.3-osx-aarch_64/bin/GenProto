@@ -1,0 +1,11 @@
+#!/bin/bash
+
+protoc -I=./Desktop/MyProject/Common/protoc-22.3-osx-aarch_64/bin --csharp_out=./Desktop/MyProject/Common/protoc-22.3-osx-aarch_64/bin ./Desktop/MyProject/Common/protoc-22.3-osx-aarch_64/bin/Protocol.proto 
+
+
+
+Cp -f ./Desktop/MyProject/Common/protoc-22.3-osx-aarch_64/bin/Protocol.cs ./Desktop/MyProject/Client/Assets/Scripts/Packet
+Cp -f ./Desktop/MyProject/Common/protoc-22.3-osx-aarch_64/bin/Protocol.cs ./Desktop/MyProject/Server/Packet
+
+Cp -f ./Desktop/MyProject/PacketGenerator/bin/Debug/net6.0/ClientPacketManager.cs ./Desktop/MyProject/Client/Assets/Scripts/Packet
+Cp -f ./Desktop/MyProject/PacketGenerator/bin/Debug/net6.0/ServerPacketManager.cs ./Desktop/MyProject/Server/Packet

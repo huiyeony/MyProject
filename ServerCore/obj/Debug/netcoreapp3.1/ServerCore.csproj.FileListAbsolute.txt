@@ -1,0 +1,10 @@
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/bin/Debug/netcoreapp3.1/ServerCore.deps.json
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/bin/Debug/netcoreapp3.1/ServerCore.dll
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/bin/Debug/netcoreapp3.1/ServerCore.pdb
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.AssemblyInfoInputs.cache
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.AssemblyInfo.cs
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.csproj.CoreCompileInputs.cache
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.dll
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.pdb
+/Users/yanghuiyeon/Desktop/MyProject/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.csproj.AssemblyReference.cache

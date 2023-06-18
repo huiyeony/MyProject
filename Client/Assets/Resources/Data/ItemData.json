@@ -1,0 +1,67 @@
+{
+    "weaponDatas": [
+        {
+            "templateId": "1",
+            "name": "weapon_bow",
+            "dataPath": "Textures/Weapon_Bow_1",
+            "weaponType": "1",
+            "prefabPath": "Weapon_Bow_1",
+            "damage": "10"
+
+
+        }
+    ],
+    "armorDatas": [
+        {
+            "templateId": "10",
+            "name": "armor_helmet",
+            "dataPath": "Textures/Armor_Helmet_10",
+            "armorType": "1",
+            "prefabPath": "Armor_Helmet_10",
+            "defence": "10"
+        }
+        ,
+        {
+            "templateId": "11",
+            "name": "armor_armor",
+            "dataPath": "Textures/Armor_Armor_11",
+            "armorType": "2",
+            "prefabPath": "Armor_Armor_11",
+            "defence": "10"
+
+        },
+        {
+            "templateId": "12",
+            "name": "armor_boots",
+            "dataPath": "Textures/Armor_Boots_12",
+            "armorType": "3",
+            "prefabPath": "Armor_Boots_12",
+            "defence": "10"
+
+
+        },
+        {
+            "templateId": "13",
+            "name": "armor_amulet",
+            "dataPath": "Textures/Armor_Amulet_13",
+            "armorType": "4",
+            "prefabPath": "Armor_Amulet_13",
+            "defence": "10"
+
+        }
+
+    ],
+    "consumableDatas": [
+        {
+            "templateId": "100",
+            "name": "consumable_potion",
+            "dataPath": "Textures/Consumable_Potion_100",
+            "consumableType": "1",
+            "prefabPath": "Consumable_Potion_100",
+            "maxCount": "100"
+        }
+    ]
+
+
+
+} 

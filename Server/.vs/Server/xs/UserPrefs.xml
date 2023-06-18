@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{04773241-96F1-4AAB-96AF-D03D89438BBD}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Server" expanded="True">
+            <Node name="Server" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Db" expanded="True" />
+              <Node name="Game" expanded="True">
+                <Node name="Job" expanded="True" />
+                <Node name="Room" expanded="True" />
+              </Node>
+              <Node name="Item" expanded="True" />
+              <Node name="Object" expanded="True" />
+              <Node name="Packet" expanded="True">
+                <Node name="ServerPacketManager.cs" selected="True" />
+              </Node>
+              <Node name="Session" expanded="True" />
+              <Node name="Utils" expanded="True" />
+            </Node>
+            <Node name="ServerCore" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DummyClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PacketGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
